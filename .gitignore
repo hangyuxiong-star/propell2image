@@ -1,0 +1,23 @@
+.DS_Store
+*.pyc
+__pycache__/
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Node dependencies
+node_modules/
+
+# Local environment files
+.env
+*.env.local
+
+# Runtime outputs
+backend/storage/
+backend/logs/
+
+# Build outputs
+dist/
+build/
